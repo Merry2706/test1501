@@ -1,0 +1,14 @@
+{
+    "title": {
+        "translation": "Los geht's",
+        "notes": "kommentar"
+    },
+    "akku": {
+        "translation": "Der Akku ist fast leer!\n Bitte entferne \"den Akku\" und lade ihn auf.\n Das hilft, die Lebensdauer des Akkus zu verlängern.",
+        "notes": ""
+    },
+    "newtextkey": {
+        "translation": "test testtest",
+        "notes": "es ist ein kommentar"
+    }
+}
