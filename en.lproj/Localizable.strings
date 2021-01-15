@@ -1,0 +1,8 @@
+/* kommentar */
+"title" = "Let's go ";
+"akku" = "The battery is almost empty!\
+\
+ Please remove \"the battery\" and charge it.\
+ \
+ This helps to extend its lifetime.";
+"forget" = "Forget vehicle%d";
